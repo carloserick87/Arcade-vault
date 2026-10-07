@@ -24,3 +24,6 @@ Workflow is Spec Driven Design via the `/spec` and `/spec-impl` skills from http
 - Tailwind CSS v4 via `@tailwindcss/postcss`: no `tailwind.config.*`; theme tokens are declared in `app/globals.css` with `@theme inline` and CSS variables (light/dark via `prefers-color-scheme`).
 - Fonts: Geist / Geist Mono via `next/font/google`, exposed as `--font-geist-sans` / `--font-geist-mono`.
 - Path alias `@/*` → repo root.
+
+## Skills
+Always use /frontend-design when designing the user interface.
